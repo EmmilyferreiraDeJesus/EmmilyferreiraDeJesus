@@ -2,7 +2,17 @@
 
 <p align="center">
   💻 Estudante de programação | 💕 Apaixonada por Tecnologia
-</p><br><br>
+</p><br>
+
+Recém-formada como tecnóloga em Análise e Desenvolvimento de Sistemas, tenho um ano de experiência em desenvolvimento web e testes manuais de software, com foco atual em desenvolvimento full-stack.
+
+​Minhas habilidades incluem o desenvolvimento de aplicações com JavaScript, React, Node.js, Java, Spring e MySQL.
+
+Atualmente, estou aprofundando meus conhecimentos para criar soluções de ponta a ponta, explorando novas tecnologias e arquiteturas.
+
+​Busco continuamente oportunidades de contribuir com soluções significativas na área de TI, ajudando a construir produtos inovadores e de alto impacto.
+
+<br>
 
 ## Skills
 
@@ -20,5 +30,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmilyferreiraDeJesus&layout=compact&show_icons=true&theme=tokyonight" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmilyferreiraDeJesus&layout=compact&theme=tokyonight" /></a> 
