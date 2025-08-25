@@ -1,13 +1,10 @@
-<h1 align="center">👋 Olá, eu sou a Emmily!</h1>
+<h1 align="center">Olá, eu sou a Emmily 👋</h1>
 
 <p align="center">
   💻 Estudante de programação | 💕 Apaixonada por Tecnologia
 </p><br><br>
 
-
-<div style="display: inline-block">
-
-<h2>🚀 Minhas Skills</h2>
+## Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,16 +21,4 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-</div>
-
-<div style="display: inline-block">
-
-<h2>📊 Most Used Languages</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmilyferreiraDeJesus&layout=compact&theme=tokyonight)
-
-<h2>⭐ GitHub Stats</h2>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmilyferreiraDeJesus&show_icons=true)
-
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmilyferreiraDeJesus&layout=compact&show_icons=true&theme=tokyonight" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmilyferreiraDeJesus&layout=compact&theme=tokyonight" /></a> 
