@@ -4,15 +4,11 @@
   💻 Estudante de programação | 💕 Apaixonada por Tecnologia
 </p><br>
 
-Recém-formada como tecnóloga em Análise e Desenvolvimento de Sistemas, tenho um ano de experiência em desenvolvimento web e testes manuais de software, com foco atual em desenvolvimento full-stack.
+Recém-formada como tecnóloga em Análise e Desenvolvimento de Sistemas, tenho 1 ano de experiência em desenvolvimento web e teste manual de software (QA), com foco atual em desenvolvimento full-stack.
 
 ​Minhas habilidades incluem o desenvolvimento de aplicações com JavaScript, React, Node.js, Java, Spring e MySQL.
 
 Atualmente, estou aprofundando meus conhecimentos para criar soluções de ponta a ponta, explorando novas tecnologias e arquiteturas.
-
-​Busco continuamente oportunidades de contribuir com soluções significativas na área de TI, ajudando a construir produtos inovadores e de alto impacto.
-
-<br>
 
 ## Skills
 
