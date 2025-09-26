@@ -6,8 +6,6 @@
 
 Recém-formada como tecnóloga em Análise e Desenvolvimento de Sistemas, tenho 1 ano de experiência em desenvolvimento web e teste manual de software (QA), com foco atual em desenvolvimento full-stack.
 
-​Minhas habilidades incluem o desenvolvimento de aplicações com JavaScript, React, Node.js, Java, Spring e MySQL.
-
 Atualmente, estou aprofundando meus conhecimentos para criar soluções de ponta a ponta, explorando novas tecnologias e arquiteturas.
 
 ## Skills
