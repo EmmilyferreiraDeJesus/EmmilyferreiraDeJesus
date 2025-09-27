@@ -43,6 +43,6 @@ Meu **foco atual** é aprofundar meus estudos em **Front-end**, explorando novas
 ## ✨ Vamos nos conectar?
 
 <p>
-  <a href="www.linkedin.com/in/emmily-ferreira-de-jesus-b4522020a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="emmilyferreiraf946@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/emmily-ferreira-de-jesus-b4522020a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:emmilyferreiraf946@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
