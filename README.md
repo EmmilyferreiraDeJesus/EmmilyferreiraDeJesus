@@ -12,7 +12,7 @@ Meu **foco atual** é aprofundar meus estudos em **Front-end**, explorando novas
 
 ---
 
-## 🛰️ Constelação de Skills
+## 🛰️ Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,8 +32,17 @@ Meu **foco atual** é aprofundar meus estudos em **Front-end**, explorando novas
 
 ---
 
-## 🌌 Meu Observatório (Estatísticas do GitHub)
+## 🌌 Estatísticas do GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmilyferreiraDeJesus&layout=compact&show_icons=true&theme=tokyonight" alt="Estatísticas estelares da Emmily" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmilyferreiraDeJesus&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" /></a>
 
 <br>
+
+---
+
+## ✨ Vamos nos conectar?
+
+<p>
+  <a href="www.linkedin.com/in/emmily-ferreira-de-jesus-b4522020a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="emmilyferreiraf946@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
