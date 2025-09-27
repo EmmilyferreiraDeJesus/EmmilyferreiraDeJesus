@@ -1,14 +1,18 @@
-<h1 align="center">Olá, eu sou a Emmily 👋</h1>
+<h1 align="center">🌠 Olá, eu sou a Emmily🪐</h1>
 
 <p align="center">
-  💻 Estudante de programação | 💕 Apaixonada por Tecnologia
-</p><br>
+  🔭 Mapeando o Universo da Programação | ✨ Apaixonada por Astronomia 
+</p>
 
-Recém-formada como tecnóloga em Análise e Desenvolvimento de Sistemas, tenho 1 ano de experiência em desenvolvimento web e teste manual de software (QA), com foco atual em desenvolvimento full-stack.
+---
 
-Atualmente, estou aprofundando meus conhecimentos para criar soluções de ponta a ponta, explorando novas tecnologias e arquiteturas.
+**Tecnóloga em Análise e Desenvolvimento de Sistemas** com **1 ano de experiência** em **Desenvolvimento Web** e em **Garantia de Qualidade (QA)**, atuando em Testes Manuais de Software.
 
-## Skills
+Meu **foco atual** é aprofundar meus estudos em **Front-end**, explorando novas **tecnologias**, **arquiteturas** e **melhores práticas de design de interfaces.**
+
+---
+
+## 🛰️ Constelação de Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,10 +26,14 @@ Atualmente, estou aprofundando meus conhecimentos para criar soluções de ponta
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-for-the-badge&logo=swagger&logoColor=black)
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmilyferreiraDeJesus&layout=compact&show_icons=true&theme=tokyonight" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmilyferreiraDeJesus&layout=compact&theme=tokyonight" /></a> 
+---
+
+## 🌌 Meu Observatório (Estatísticas do GitHub)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmmilyferreiraDeJesus&layout=compact&show_icons=true&theme=tokyonight" alt="Estatísticas estelares da Emmily" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmilyferreiraDeJesus&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" /></a>
+
+<br>
